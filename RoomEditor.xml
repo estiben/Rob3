@@ -1,0 +1,10 @@
+<config>
+    <objects>
+        <object class="Rob" params="()" sprite="/home/steven/Projects/Rob3/data/sprites/rob/rob0.bmp"/>
+        <object class="Wall" params="()" sprite="/home/steven/Projects/Rob3/data/sprites/wall_a/wall_a0.bmp"/>
+    </objects>
+    <backgrounds>
+        <background path="/home/steven/Projects/Rob3/data/sprites/floor_tile.bmp"/>
+        <background path="/home/steven/Projects/Rob3/data/sprites/coin.bmp"/>
+    </backgrounds>
+</config>
